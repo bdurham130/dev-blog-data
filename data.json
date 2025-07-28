@@ -6,7 +6,7 @@
     "content": "NBA Top Shot and digital tokens are redefining fan interaction.",
     "full": "NBA Top Shot allows fans to collect officially licensed highlights as NFTs, creating a new era of collectible fandom. This move is part of the league's strategy to merge sports culture with blockchain technology, deepening engagement and unlocking exclusive experiences.",
     "tags": ["sports", "nba", "nft", "crypto"],
-    "image": "https://i.imgur.com/O1Iyk2e.jpg",
+    "image": "https://raw.githubusercontent.com/bdurham130/dev-blog-data/main/images/nba.jpg"",
     "link": "https://bdurham130.github.io/dev-blog-data/nba-nfts"
   },
   {
@@ -16,7 +16,7 @@
     "content": "Web3 fantasy leagues are introducing verifiable scoring and crypto prizes.",
     "full": "Blockchain-based fantasy platforms are giving users new control. Smart contracts handle league rules, payout logic, and even player ownership. Users can stake tokens, earn rewards, and trust that results can’t be rigged.",
     "tags": ["fantasy", "sports", "blockchain", "web3"],
-    "image": "https://i.imgur.com/UdR6f4p.jpg",
+    "image": "https://raw.githubusercontent.com/bdurham130/dev-blog-data/main/images/fantasy.jpg",
     "link": "https://bdurham130.github.io/dev-blog-data/fantasy-web3"
   },
   {
@@ -26,7 +26,7 @@
     "content": "From NFL to MMA, more athletes are choosing to be paid in crypto.",
     "full": "Athletes like Odell Beckham Jr. and UFC fighters have opted to receive part or all of their salary in Bitcoin. Some cite belief in blockchain, others want long-term upside or to hedge against inflation. It's a cultural shift toward tech-savvy endorsement.",
     "tags": ["bitcoin", "crypto", "athletes", "finance"],
-    "image": "https://i.imgur.com/NlZMJ5C.jpg",
+    "image": "https://raw.githubusercontent.com/bdurham130/dev-blog-data/main/images/crypto-salaries.jpg",
     "link": "https://bdurham130.github.io/dev-blog-data/crypto-salaries"
   },
   {
@@ -36,7 +36,7 @@
     "content": "Teams like PSG and Barcelona are letting fans vote with blockchain tokens.",
     "full": "Soccer clubs are selling 'fan tokens' that give holders influence over team decisions — like jersey designs, warm-up music, or club slogans. While some say it's gimmicky, others see a new monetization layer in sports culture.",
     "tags": ["soccer", "tokens", "fan-engagement", "sports"],
-    "image": "https://i.imgur.com/FITGEaU.jpg",
+    "image": "https://raw.githubusercontent.com/bdurham130/dev-blog-data/main/images/fan-tokens.jpg",
     "link": "https://bdurham130.github.io/dev-blog-data/fan-tokens"
   },
   {
@@ -46,7 +46,7 @@
     "content": "From arenas to jerseys, crypto is leaving a massive mark on sports branding.",
     "full": "Crypto.com Arena, FTX with MLB (before collapse), and Binance-backed clubs are all signs that blockchain is reshaping sports marketing. While some fans are skeptical, others see a match made in branding heaven.",
     "tags": ["sponsorship", "marketing", "crypto", "sportsbiz"],
-    "image": "https://i.imgur.com/S4VQXU3.jpg",
+    "image": "https://raw.githubusercontent.com/bdurham130/dev-blog-data/main/images/sportsbiz.jpg",
     "link": "https://bdurham130.github.io/dev-blog-data/crypto-sportsbiz"
   }
 ]
