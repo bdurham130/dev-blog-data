@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "title": "How the NBA is Using NFTs to Change the Fan Experience",
+    "date": "2025-07-28",
+    "content": "From NBA Top Shot to team partnerships with blockchain platforms, the NBA is leading the way in using NFTs to connect with fans, reward loyalty, and open up new digital experiences.",
+    "tags": [
+      "sports",
+      "nba",
+      "nft",
+      "crypto"
+    ],
+    "link": "https://bdurham130.github.io/dev-blog-data/nba-nfts"
+  },
+  {
+    "id": 2,
+    "title": "Fantasy Sports on the Blockchain? It's Already Happening",
+    "date": "2025-07-28",
+    "content": "Decentralized fantasy sports leagues are on the rise. These platforms use smart contracts to ensure fair play, verifiable scoring, and even real crypto payouts.",
+    "tags": [
+      "fantasy",
+      "sports",
+      "blockchain",
+      "web3"
+    ],
+    "link": "https://bdurham130.github.io/dev-blog-data/fantasy-web3"
+  },
+
+  {
+    "id": 3,
+    "title": "The Rise of Fan Tokens in Soccer",
+    "date": "2025-07-28",
+    "content": "European football clubs like FC Barcelona and PSG are issuing fan tokens to allow supporters to vote on decisions and access exclusive rewards. But are they just hype?",
+    "tags": [
+      "soccer",
+      "tokens",
+      "fan-engagement",
+      "sports"
+    ],
+    "link": "https://bdurham130.github.io/dev-blog-data/fan-tokens"
+  },
+  {
+    "id": 4,
+    "title": "Crypto Sponsorships Are Changing Sports Marketing",
+    "date": "2025-07-28",
+    "content": "From Crypto.com Arena to team jerseys featuring crypto logos, blockchain companies are making big moves in sports marketing. What does this mean for fans and athletes alike?",
+    "tags": [
+      "sponsorship",
+      "marketing",
+      "crypto",
+      "sportsbiz"
+    ],
+    "link": "https://bdurham130.github.io/dev-blog-data/crypto-sportsbiz"
+  }
+]
